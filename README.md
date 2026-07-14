@@ -54,7 +54,6 @@ Computer Engineer | Cloud Technologies | IT Infrastructure | Automation | AI
 - GitHub
 - Unity
 - Object-Oriented Programming (OOP)
-- VMware Horizon
 
 ---
 
